@@ -1,0 +1,20 @@
+.odd {
+  background-color:pink;
+  font-family: Verdana, sans-serif;
+}
+
+.cooler {
+  font-size: 30;
+  color: grey;
+}
+
+#dos {
+  color: blue;
+  font-size: 36;
+}
+
+#quad {
+  font-style: bold;
+  background-color: green;
+  font-size: 24;
+}
